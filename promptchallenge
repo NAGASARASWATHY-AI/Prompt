@@ -5,17 +5,30 @@ A comprehensive collection of prompt templates for various AI interactions and u
 ## A. Basic Prompt Templates
 
 ### 1. General Inquiry
-**Template:** Ask a general question about a topic
-**Example:**
-> Explain advantage of living a life in simple terms.
+Explain [topic] in simple terms
+
+Expalin PHOTOSYNTHESIS in simple terms
+## Audience - 10 year old / Steps - 5 steps / Analogy based
+Explain Sky in simple temples using an analogy in 5 simple steps like to a 10 year old
+
+Add tone : Curious / What type of analogy : Object analogy
+
+Pro-level : Based on LLM
+
+“Explain what the sky is to a 10-year-old using one everyday object analogy (for example, a bowl or a blanket).
+Present it in 5 numbered steps, each no longer than two short sentences, with a friendly, curious tone.”
+
 
 ### 2. Summarization
-**Template:** Summarize text in specific format/length
+**Template:** Summarize the following text in [10] bullet points. Insert long text here. 
 **Example:**
-> Summarize the following text in 5 bullet points:
-> 
-> *Madurai, often called the Athens of the East, is one of the oldest continuously inhabited cities in the world, with a recorded history that goes back more than 2,500 years. Located on the banks of the Vaigai River in Tamil Nadu, India, the city has been a major cultural, political, and religious center for centuries. It is most famous for the Meenakshi Amman Temple, an architectural marvel and one of the most important pilgrimage sites in South India.*
+> Summarize the following text in 10 bullet points:
 
+Improvised :
+“Summarize the following text into exactly 5 bullet points, each no longer than one sentence, using clear, plain language that highlights the key facts and main arguments.
+If the text cannot support 5 points, give the maximum number possible and state how many you provided.”   
+> 
+> In May 1974, Kalam was invited by Raja Ramanna to witness the country's first nuclear test Smiling Buddha as the representative of Terminal Ballistics Research Laboratory, even though he was officially not part of the project.[26] In the 1970s, Kalam directed two projects, Project Devil and Project Valiant, which sought to develop ballistic missiles using the technology from the successful SLV programme. Despite the disapproval of the union cabinet, then Prime Minister Indira Gandhi allotted funds for these aerospace projects under Kalam's directorship through her discretionary powers. Kalam also played a major role in convincing the cabinet to conceal the true nature of these classified projects. His research and leadership brought him recognition in the 1980s, which prompted the government to initiate an advanced missile programme under his directorship.[27]
 ### 3. Paraphrasing
 **Template:** Rewrite text while maintaining meaning
 **Example:**
